@@ -1,2 +1,2 @@
 # jewelryLoanApp
-GainHon jewelry load app project
+GainHon jewelry loan app project
